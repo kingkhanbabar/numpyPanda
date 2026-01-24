@@ -1,0 +1,6 @@
+notepad .gitignore
+
+shahvej_venv/
+pip/
+__pycache__/
+*.pyc
